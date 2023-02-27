@@ -1,5 +1,3 @@
-# learn_lua_rest
-lua_rest
-```lua
-print("hello this is Lua")
-```
+### Дипломный проект.
+
+-- Реализация Rest сервисов на Lua.
